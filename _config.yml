@@ -1,7 +1,7 @@
 # Site settings
 title: "BIL113E: Introduction to Scientific and Engineering Computing"
 description: "BIL 113E (Introduction to Scientific and Engineering Computing) course materials"
-baseurl: "/bil113e/"
+baseurl: "/bil113e"
 url: "http://itueconomics.github.io/bil113e/"
 twitter_username: ituecon
 github_username:  itueconomics
