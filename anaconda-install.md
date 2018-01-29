@@ -11,19 +11,19 @@ Anaconda is a Python Data Science platform. includes essential data science libr
 
 We will use Anaconda Python 3.x distributions. So be sure that you have downloaded Anaconda Python 3 distribution. If you are not sure about installing 64-bit or 32-bit, first try to install 64-bit version. 
 
-![]({{ site.baseurl }}/assets/anaconda-download.jpg)
+![]({{ site.baseurl }}/assets/anaconda-download.JPG)
 
 You can download Anaconda for Windows, Linux and MacOS. After you have installed the Python 3.x version Jupyter Notebook, Spyder IDE and necessary libraries will be installed. 
 
 After you have installed the Anaconda open the Anaconda Navigator. 
 
-![]({{ site.baseurl }}/assets/anaconda-navigator.jpg)
+![]({{ site.baseurl }}/assets/anaconda-navigator.JPG)
 
 ### RStudio ###
 
 When you open the Anaconda Navigator you will have a such screen:
 
-![]({{ site.baseurl }}/assets/rstudio-install.jpg)
+![]({{ site.baseurl }}/assets/rstudio-install.JPG)
 
 At the **Home** section you can install Rstudio by clicking on *Install* as highlighted above. You can launch Jupyter Notebook, Spyder, RStudio from Home section. 
 
@@ -31,8 +31,10 @@ When you click on the Environments section you will find the Python environments
 
 You can open the **Anaconda Prompt** from the Environment section as shown below:
 
-![]({{ site.baseurl }}/assets/anaconda-environment.jpg)
+![]({{ site.baseurl }}/assets/anaconda-environment.JPG)
 
 If you have any problem related with the installation please use [Ninova](http://ninova.itu.edu.tr/) to ask questions. You can find helpful videos either:
+
+
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/LrMOrMb8-3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
