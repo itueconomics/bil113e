@@ -11,7 +11,7 @@ Anaconda is a Python Data Science platform. includes essential data science libr
 
 We will use Anaconda Python 3.x distributions. So be sure that you have downloaded Anaconda Python 3 distribution. If you are not sure about installing 64-bit or 32-bit, first try to install 64-bit version. 
 
-<div class='fig-center'>
+<div class='figcenter'>
 
 <img src='{{ site.baseurl }}/assets/anaconda-download.JPG'>
 
@@ -21,7 +21,7 @@ You can download Anaconda for Windows, Linux and MacOS. After you have installed
 
 After you have installed the Anaconda open the Anaconda Navigator. 
 
-<div class='fig-center'>
+<div class='figcenter'>
 
 <img src='{{ site.baseurl }}/assets/anaconda-navigator.JPG'>
 
@@ -31,7 +31,7 @@ After you have installed the Anaconda open the Anaconda Navigator.
 
 When you open the Anaconda Navigator you will have a such screen:
 
-<div class='fig-center'>
+<div class='figcenter'>
 
 <img src='{{ site.baseurl }}/assets/rstudio-install.JPG'>
 
@@ -43,7 +43,7 @@ When you click on the Environments section you will find the Python environments
 
 You can open the **Anaconda Prompt** from the Environment section as shown below:
 
-<div class='fig-center'>
+<div class='figcenter'>
 
 <img src='{{ site.baseurl }}/assets/anaconda-environment.JPG'>
 
