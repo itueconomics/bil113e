@@ -49,8 +49,4 @@ You can open the **Anaconda Prompt** from the Environment section as shown below
 
 </div>
 
-If you have any problem related with the installation please use [Ninova](http://ninova.itu.edu.tr/) to ask questions. You can find helpful videos either:
-
-
-
-<iframe width="800" height="400" src="https://www.youtube.com/embed/LrMOrMb8-3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+If you have any problem related with the installation please use [Ninova](http://ninova.itu.edu.tr/) to ask questions. 
