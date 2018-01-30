@@ -29,7 +29,7 @@ After you have installed the Anaconda open the Anaconda Navigator.
 
 ### RStudio ###
 
-When you open the Anaconda Navigator you will have a such screen:
+At the **Home** section you can install Rstudio by clicking on *Install* as highlighted above. You can launch Jupyter Notebook, Spyder, RStudio from Home section. 
 
 <div class='fig figcenter'>
 
@@ -37,9 +37,7 @@ When you open the Anaconda Navigator you will have a such screen:
 
 </div>
 
-At the **Home** section you can install Rstudio by clicking on *Install* as highlighted above. You can launch Jupyter Notebook, Spyder, RStudio from Home section. 
-
-When you click on the Environments section you will find the Python environments. As explained above Anaconda can be used by both advanced and beginner people. Currently, we will be working only with the *root*. So we will not have any business with the Environment section. 
+When you click on the Environments section you will find the Python environments. As explained above Anaconda can be used by both advanced and beginner users. Currently, we will be working only with the *root* environment. So we will not have any work with the Environment section. 
 
 You can open the **Anaconda Prompt** from the Environment section as shown below:
 
