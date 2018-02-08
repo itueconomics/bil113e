@@ -1,6 +1,6 @@
 # Site settings
-title: "Introduction to Scientific and Engineering Computing - ITU Economics"
-description: "BIL 113E (Introduction to Scientific and Engineering Computing) course materials"
+title: "Introduction to Scientific and Engineering Computing - ITU Economics Open Course"
+description: "BIL113E (Introduction to Scientific and Engineering Computing) course materials"
 baseurl: "/bil113e"
 url: "http://itueconomics.github.io"
 twitter_username: ituecon
