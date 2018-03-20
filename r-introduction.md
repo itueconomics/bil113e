@@ -4,7 +4,7 @@ title: R Programming Resources
 permalink: /r-intro-1.html
 ---
 
-R section of the course aimed to introduce you the R Programming and share the resources that you can study in the future. R section will be relatively small compared to Matlab and Python sections. It is because that R programming is more efficient for *statistical analysis*. However, most of you are not familiar with the econometrics techniques. Yet, we included the R section because it is commonly used by economists and statisticians. 
+R section of the course aimed to introduce you the R Programming and share the resources that you can study in the future. R section will be relatively small compared to Matlab and Python sections. It is because that R programming is more efficient for *statistical analysis*. However, most of you are not familiar with the econometrics techniques. 
 
 First of all check out [RStudio installation for Anaconda](https://itueconomics.github.io/bil113e/anaconda-install/).
 
