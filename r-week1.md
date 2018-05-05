@@ -4,6 +4,8 @@ title: Statistical Analysis with R
 permalink: /r-week1.html
 ---
 
+[Download the R Script](http://itueconomics.github.io/bil113e/notebooks/week1.R)
+
 R Programming is more user-friendly for statistical analysis as you will see. The framework of RStudio consists of 4 sections:
 
 ![Rstudio](https://itueconomics.github.io/bil113e/assets/rstudio.png)
