@@ -60,4 +60,3 @@ Data: UScereal
 2. Find the averages of the manufacturers which is labeled as `mfr` in the dataset.
 3. Some of the products have vitamins and some `none`. Create an econometric model that predicts if product contains `enriched` vitamin or others. Use only columns: `calories + protein + fat + sodium + fibre + carbo + sugars + shelf + potassium`
 4. Score your model in the previous question. 
-
